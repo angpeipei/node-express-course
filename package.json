@@ -1,0 +1,23 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "learn node js basic",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angpeipei/node-express-course.git"
+  },
+  "author": "peipei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angpeipei/node-express-course/issues"
+  },
+  "homepage": "https://github.com/angpeipei/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
